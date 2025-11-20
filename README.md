@@ -1,4 +1,4 @@
-# 🎬 MORT - movie sorting app — Media Manager Revamp
+# 🎬 MORT - movie sorting app — Media Manager
 
 **MORT** is a Python Tkinter‑based media management tool that helps you organize your personal media library. It scans folders for images, videos, and audio files, stores metadata in a local SQLite database, generates thumbnails, and provides a simple UI for browsing and managing your collection.
 
