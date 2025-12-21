@@ -1,6 +1,6 @@
 # GNU General Public License v3.0 or later
 # This file is released under the GNU GPL v3 (or later) and may be redistributed under its terms.
-# Created with assistance from AI.
+# The perpose of this project was to try vibe coding, my original code is in https://github.com/RMNO21/Mort
 import os
 import sys
 import json
