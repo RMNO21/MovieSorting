@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1202" height="834" alt="MORT Application Interface" src="[https://github.com/user-attachments/assets/aa60e979-c415-4b0e-a60b-b1d7f523cd6b](https://github.com/user-attachments/assets/aa60e979-c415-4b0e-a60b-b1d7f523cd6b)" />
+<img width="1202" height="834" alt="image" src="https://github.com/user-attachments/assets/dbca9842-bbb5-4522-beab-66615919703e" />
 
 ---
 
