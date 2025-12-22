@@ -3,6 +3,9 @@
 **MORT** is a Python Tkinter‑based media management tool that helps you organize your personal media library. It scans folders for images, videos, and audio files, stores metadata in a local SQLite database, generates thumbnails, and provides a simple UI for browsing and managing your collection.
 
 ---
+<img width="1202" height="834" alt="image" src="https://github.com/user-attachments/assets/aa60e979-c415-4b0e-a60b-b1d7f523cd6b" />
+
+---
 
 ## ✨ Features
 
