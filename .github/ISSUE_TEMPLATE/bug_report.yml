@@ -1,0 +1,10 @@
+name: Bug Report
+description: Report an issue or bug with MovieSorting
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Detailed description of the behavior.
+    validations:
+      required: true
